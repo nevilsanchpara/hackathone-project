@@ -1,0 +1,14 @@
+/** @format */
+
+.filter {
+  width: 50%;
+  margin: auto;
+  /* background-color: aqua; */
+}
+input {
+  margin: auto;
+  width: 70%;
+}
+FcSearch {
+  border: 1px solid gray;
+}

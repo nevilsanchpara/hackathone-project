@@ -1,0 +1,29 @@
+.navbar1 {
+  background-color: #3d3e3f;
+}
+.logo1 {
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+}
+ul li {
+  padding-right: 10px;
+}
+.link {
+  font-size: 20px;
+}
+.logout1 {
+  font-size: 2rem;
+}
+
+.hello {
+  float: right;
+}
+
+@media only screen and (max-width: 600px) {
+  .logo1 {
+    width: 30%;
+    height: auto;
+    max-width: 200px;
+  }
+}

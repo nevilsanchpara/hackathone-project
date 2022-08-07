@@ -1,0 +1,31 @@
+{
+  "name": "node-express-firebase-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1188.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "generate-password": "^1.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.6",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.19",
+    "react-router-dom": "^6.3.0"
+  }
+}
